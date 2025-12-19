@@ -7,3 +7,5 @@
   fiz de filmes 
 
   fiz uma pasta e zipei, pareceu mais facil e pratico
+
+tecnologias usadas: HTML, CSS e BOOTSTRAP
