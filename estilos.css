@@ -1,0 +1,72 @@
+body {
+    font-family: Arial;
+    background: #e9ecef;
+    margin: 0;
+}
+
+.cabeçalho {
+    background: #6c757d;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.centralizado {
+    width: 90%;
+    margin: auto;
+    padding: 20px 0;
+}
+
+.filmes,
+.lista,
+.Form {
+    background: #f8f9fa;
+    margin: 10px;
+    padding: 20px;
+    width: 30%;
+    float: left;
+}
+
+h2 {
+    color: #495057;
+}
+
+.tabelaContainer {
+    background: #f8f9fa;
+    padding: 20px;
+    margin: 50px auto 20px auto;
+    width: 90%;
+    clear: both;
+}
+
+.tabela th {
+    background: #6c757d;
+    color: white;
+}
+
+.tabela td {
+    padding: 10px;
+}
+
+.rodape {
+    background: #343a40;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+}
+
+.input-form {
+    border: 2px solid #6c757d;
+}
+
+.link,
+.botao-enviar {
+    background: #6c757d;
+    color: white;
+    padding: 10px;
+}
+
+img {
+    border: 2px solid #6c757d;
+}
